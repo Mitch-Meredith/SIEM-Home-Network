@@ -73,7 +73,7 @@ This Project consists of taking a Linode Web-Based Server and installing a SIEM 
   <img src="https://imgur.com/KRgGFgB.png" height="80%" width="80%"/>
 <br />
 <br />
-<b>Run the commands in Step 4 and 5 on the Agent PC in Powershell(Admin) </b>
+<b>Run the commands in Step 4 and 5 on the Agent PC in Powershell(Admin) </b><br/>
   -Note that if the Agent isnt able to connect to the host you might need to open ports 1514 and 1515 on your router
   <img src="https://imgur.com/ZtzyyqE.png" height="80%" width="80%"/>
 <br />
